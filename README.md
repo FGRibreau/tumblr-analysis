@@ -2,6 +2,10 @@
 
 > Tonight (2nd of February 2015) a friend of mine asked me if I knew a way to quickly count every likes/reblog/reply on his blog. One hour later here we are.
 
+<p align="center">
+<img style="width:100%" src="./serious-stuff.gif"/>
+</p>
+
 
 ### Setup
 
