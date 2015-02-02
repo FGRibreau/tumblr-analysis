@@ -1,5 +1,5 @@
 {
-  "name": "tumblr-notes",
+  "name": "tumblr-analysis",
   "version": "1.0.0",
   "description": "Extract every tumblr posts as JSON from a blog and analyse them.",
   "main": "index.js",
