@@ -1,10 +1,13 @@
 {
   "name": "tumblr-analysis",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Extract every tumblr posts as JSON from a blog and analyse them.",
   "main": "index.js",
   "scripts": {},
-  "keywords": ["tumblr", "json"],
+  "keywords": [
+    "tumblr",
+    "json"
+  ],
   "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
   "license": "MIT",
   "dependencies": {
