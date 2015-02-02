@@ -1,0 +1,16 @@
+{
+  "name": "tumblr-notes",
+  "version": "1.0.0",
+  "description": "Extract every tumblr posts as JSON from a blog and analyse them.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["tumblr", "json"],
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "better-assert": "^1.0.2",
+    "moment": "^2.9.0",
+    "tumblr.js": "0.0.4"
+  }
+}

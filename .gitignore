@@ -26,3 +26,9 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+.env
+likers_websites.txt
+notes_*
+posts.json
+posts_only_notes.json
