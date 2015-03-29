@@ -1,6 +1,6 @@
 {
   "name": "tumblr-analysis",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Extract every tumblr posts as JSON from a blog and analyse them.",
   "main": "index.js",
   "scripts": {},
